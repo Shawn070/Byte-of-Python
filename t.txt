@@ -1,6 +1,0 @@
-Hello, VIM.
-I'm Shawn
-text_1
-text_2
-text_3
-
